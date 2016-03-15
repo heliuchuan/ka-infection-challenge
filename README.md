@@ -1,6 +1,6 @@
 # ka-infection-challenge
 
-needs networkx and matplotlib
+needs networkx and matplotlib.  visualizations are on by default
 
 to run use
 
